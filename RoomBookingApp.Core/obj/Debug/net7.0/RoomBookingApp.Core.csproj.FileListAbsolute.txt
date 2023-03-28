@@ -1,0 +1,12 @@
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/bin/Debug/net7.0/RoomBookingApp.Core.deps.json
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/bin/Debug/net7.0/RoomBookingApp.Core.dll
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/bin/Debug/net7.0/RoomBookingApp.Core.pdb
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.AssemblyInfo.cs
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.dll
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/refint/RoomBookingApp.Core.dll
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/RoomBookingApp.Core.pdb
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/Debug/net7.0/ref/RoomBookingApp.Core.dll

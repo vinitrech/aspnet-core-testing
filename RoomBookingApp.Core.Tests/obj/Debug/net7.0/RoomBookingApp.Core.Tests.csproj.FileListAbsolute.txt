@@ -142,3 +142,6 @@
 /home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/obj/Debug/net7.0/refint/RoomBookingApp.Core.Tests.dll
 /home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.genruntimeconfig.cache
 /home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/obj/Debug/net7.0/ref/RoomBookingApp.Core.Tests.dll
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.Core.dll
+/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.Core.pdb

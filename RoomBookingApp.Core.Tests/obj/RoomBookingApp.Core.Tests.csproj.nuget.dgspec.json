@@ -25,7 +25,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/RoomBookingApp.Core.csproj": {
+                "projectPath": "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/RoomBookingApp.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -41,6 +45,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
             },
             "Shouldly": {
               "target": "Package",
@@ -63,6 +71,59 @@
               "version": "[2.4.5, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/vinitrech/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/RoomBookingApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/RoomBookingApp.Core.csproj",
+        "projectName": "RoomBookingApp.Core",
+        "projectPath": "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/RoomBookingApp.Core.csproj",
+        "packagesPath": "/home/vinitrech/.nuget/packages/",
+        "outputPath": "/home/vinitrech/Projects/aspnet-core-testing/RoomBookingApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinitrech/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
