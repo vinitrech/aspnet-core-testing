@@ -1,0 +1,34 @@
+Build app:
+dotnet build
+
+Add package:
+dotnet add package Macro.SpecifiedPackage.Resource
+
+Install new tools:
+dotnet tool install -g {dotnet-aspnet-codegenerator}
+
+Generate api rest controller from scaffolding (-m = model; -dc = data context):
+dotnet aspnet-codegenerator controller -name {CountriesController} -m {Country} -dc {HotelListingDbContext} --relativeFolderPath Controllers -api
+
+Generate api rest controller from scratch:
+dotnet aspnet-codegenerator controller -name {AccountController} --relativeFolderPath Controllers -api
+
+Generate new test project:
+dotnet new xunit -o 'FolderName'
+
+Generate new class library project:
+dotnet new classlib --name {MyProject}
+
+Add reference to external library project:
+dotnet add reference ../pathTo/project.csproj
+
+Generate new migration
+dotnet ef migrations add AddedIdentityTables
+
+Update database to apply migrations changes
+Update-database
+
+Set secret environment variables
+dotnet user-secrets init
+dotnet user-secrets set "JwtSettings:ApiKey" "sDqMbK5VfLHSDtCEZGkWhzecCaxSiUursZ0BQuQHkopxMuPfO592YZCKSxnMFM71ia99fTWuEfsSSO2eBp"
+then access secret variable with builder.Configuration["JwtSettings:ApiKey"]
